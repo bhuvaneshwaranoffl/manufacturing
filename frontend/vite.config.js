@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/manufacturing/',
   plugins: [react()],
   server: {
     // "host: true" makes the dev server listen on your PC's network
