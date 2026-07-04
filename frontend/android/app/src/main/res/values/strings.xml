@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sahayatha MFG</string>
+    <string name="title_activity_main">Sahayatha MFG</string>
+    <string name="package_name">com.sahayathahealthcare.mfg</string>
+    <string name="custom_url_scheme">com.sahayathahealthcare.mfg</string>
+</resources>
